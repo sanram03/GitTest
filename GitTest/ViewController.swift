@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        print("Pushing Requestt from branch1")
+        print("Pushing Requestt from branch1..")
     }
 
     override func didReceiveMemoryWarning() {
